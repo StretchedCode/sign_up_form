@@ -1,0 +1,17 @@
+body{
+    display: flex;
+}
+
+img{
+    max-height: 50vw;
+    min-width: 35vw;
+}
+
+.sidebar{
+    display: flex;
+}
+
+form{
+    display: flex;
+    
+}
