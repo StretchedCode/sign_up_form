@@ -17,3 +17,13 @@ form{
     display: flex;
     
 }
+
+.right-page{
+    display: flex;
+    flex-direction: column;
+}
+
+.top-right{
+    display: flex;
+    flex-direction: column;
+}
