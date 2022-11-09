@@ -1,9 +1,11 @@
 body{
     display: flex;
+    margin: 0 0 0 0;
+    padding: none;
 }
 
 img{
-    max-height: 50vw;
+    max-height: 55vw;
     min-width: 35vw;
 }
 
