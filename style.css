@@ -9,13 +9,13 @@ img{
     min-width: 35vw;
 }
 
-.sidebar{
-    display: flex;
-}
-
 form{
     display: flex;
     
+}
+
+.sidebar{
+    display: flex;
 }
 
 .right-page{
