@@ -19,6 +19,9 @@ form{
 
 legend{
     margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 0px;
 }
 
 input{
