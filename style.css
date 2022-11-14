@@ -40,6 +40,10 @@ input{
     appearance: none;
 }
 
+input[type="password"]:empty{
+    outline-color: red;
+}
+
 input{
     border-color: #ffffff;
     border-radius: 2px;
