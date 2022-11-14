@@ -35,8 +35,15 @@ input{
 }
 
 input{
-    border-color: lightgrey;
+    border-color: #ffffff;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: groove;
     box-shadow: 0px;
+}
+
+input:focus-visible{
+    outline-color: rgb(92, 92, 255);
 }
 
 span{
