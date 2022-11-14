@@ -10,11 +10,23 @@ img{
 }
 
 form{
-    
     background-color: white;
     box-shadow: 3px 3px 3px 1px lightgray;
     margin-left: -20px;
     
+}
+
+legend{
+    margin-left: 20px;
+}
+
+input{
+    max-width: 200px;
+}
+
+.form-left{
+    display: flex;
+    flex-direction: column;
 }
 
 .sidebar{
