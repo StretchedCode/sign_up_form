@@ -29,6 +29,11 @@ input{
     flex-direction: column;
 }
 
+.form-right{
+    display: flex;
+    flex-direction: column;
+}
+
 .sidebar{
     display: flex;
 }
