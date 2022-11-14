@@ -12,7 +12,7 @@ img{
 form{
     background-color: white;
     box-shadow: 3px 3px 3px 1px lightgray;
-    margin-left: -20px;
+    margin-left: -2vw;
     margin-right: -50px;
     
 }
@@ -25,12 +25,15 @@ legend{
 }
 
 input{
-    max-width: 200px;
+    max-width: 250px;
+    min-width: 150px;
 }
 
 .form-body{
     display: flex;
     margin-left: 20px;
+    margin-right: 30vw;
+    justify-content: space-between;
 }
 
 .form-left{
@@ -51,7 +54,7 @@ input{
     display: flex;
     flex-direction: column;
     background-color: rgb(245, 243, 243);
-    padding-left: 20px;
+    padding-left: 2vw;
     padding-right: 50px;
     padding-top: 100px;
 }
@@ -59,4 +62,5 @@ input{
 .top-right{
     display: flex;
     flex-direction: column;
+    margin-right: 30vw;
 }
