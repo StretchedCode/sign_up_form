@@ -13,6 +13,7 @@ form{
     background-color: white;
     box-shadow: 3px 3px 3px 1px lightgray;
     margin-left: -20px;
+    margin-right: -50px;
     
 }
 
@@ -22,6 +23,11 @@ legend{
 
 input{
     max-width: 200px;
+}
+
+.form-body{
+    display: flex;
+    margin-left: 20px;
 }
 
 .form-left{
@@ -43,6 +49,8 @@ input{
     flex-direction: column;
     background-color: rgb(245, 243, 243);
     padding-left: 20px;
+    padding-right: 50px;
+    padding-top: 100px;
 }
 
 .top-right{
