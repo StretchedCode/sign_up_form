@@ -14,11 +14,12 @@ form{
     box-shadow: 3px 3px 3px 1px lightgray;
     margin-left: -2vw;
     margin-right: -50px;
+    padding-bottom: 4vh;
     
 }
 
 legend{
-    margin-left: 20px;
+    margin-left: 2vw;
     margin-top: 5px;
     margin-bottom: 5px;
     padding: 0px;
@@ -26,12 +27,20 @@ legend{
 
 input{
     max-width: 250px;
-    min-width: 150px;
+    min-width: 200px;
+}
+
+span{
+    padding-top: 2vh;
+}
+
+p{
+    padding: 0px;
 }
 
 .form-body{
     display: flex;
-    margin-left: 20px;
+    margin-left: 2vw;
     margin-right: 30vw;
     justify-content: space-between;
 }
