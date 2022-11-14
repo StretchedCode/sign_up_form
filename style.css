@@ -11,6 +11,8 @@ img{
 
 form{
     display: flex;
+    background-color: white;
+    box-shadow: 2px;
     
 }
 
@@ -21,6 +23,7 @@ form{
 .right-page{
     display: flex;
     flex-direction: column;
+    background-color: lightgray;
 }
 
 .top-right{
